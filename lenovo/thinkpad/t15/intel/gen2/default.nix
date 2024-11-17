@@ -2,6 +2,6 @@
 {
   imports = [
     ../.
-    ../../../../common/cpu/intel/tiger-lake
+    ../../../../../common/cpu/intel/tiger-lake
   ];
 }

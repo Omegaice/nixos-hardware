@@ -4,7 +4,7 @@
     ../.
     ../../../../../common/cpu/intel/tiger-lake
     ../../../../../common/gpu/nvidia/ampere
-    ../../../../../common/gpu/nvidia/prime-sync.nix
+    ../../../../../common/gpu/nvidia/prime.nix
   ];
 
   hardware.nvidia.prime = {
